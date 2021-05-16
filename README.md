@@ -22,6 +22,7 @@
 # PHP
 - MySQL
 - MongoDB
+# Go
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortydev&layout=compact&theme=dark"></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shortydev&show_icons=true&theme=dark"></p>
