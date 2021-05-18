@@ -16,6 +16,7 @@
 - Lombok
 - Spigot/BungeeCord
 - JDA
+- Netty
 # JavaScript (currently learning)
 - discord.js
 - express/ejs
@@ -23,6 +24,8 @@
 - MySQL
 - MongoDB
 # Go
+# Swift
+# Python
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortydev&layout=compact&theme=dark"></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shortydev&show_icons=true&theme=dark"></p>
