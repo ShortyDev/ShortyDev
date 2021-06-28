@@ -17,9 +17,11 @@
 - Spigot/BungeeCord
 - JDA
 - Netty
-# JavaScript (currently learning)
+# JavaScript
 - discord.js
 - express/ejs
+- React
+- MongoDB
 # PHP
 - MySQL
 - MongoDB
