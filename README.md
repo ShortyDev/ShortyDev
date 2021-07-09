@@ -4,30 +4,12 @@
 - 🌱 I’m currently learning JavaScript and RegExp
 
 ## Experience
-# Java
-- MySQL
-- MongoDB
-- Cassandra
-- Redis
-- RabbitMQ
-- Jackson
-- Gson
-- ASM
-- Lombok
-- Spigot/BungeeCord
-- JDA
-- Netty
-# JavaScript
-- discord.js
-- express/ejs
-- React
-- MongoDB
-# PHP
-- MySQL
-- MongoDB
-# Go
-# Swift
-# Python
+# Java (5 years)
+# JavaScript (4 months)
+# PHP (3 years)
+# Go (learning..)
+# Swift (learning..)
+# Python (1 year)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortydev&layout=compact&theme=dark"></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shortydev&show_icons=true&theme=dark"></p>
